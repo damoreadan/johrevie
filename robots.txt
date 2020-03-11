@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ueseequoon.rdzv.at/sitemap.xml
